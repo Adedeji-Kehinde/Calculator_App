@@ -1,6 +1,6 @@
 # Calculator_App
 
-![Uploading image.png…]()
+<img width="199" alt="Screenshot 2023-08-22 at 19 01 59" src="https://github.com/Purrfict/Calculator_App/assets/129548218/c69e6463-1616-436d-bcbb-24a339b97dd5">
 
 ## Description
 
